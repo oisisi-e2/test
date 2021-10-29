@@ -1,4 +1,5 @@
 print("WorldHello");
 int x;
 int y;
+int z;
 print(x*y);
