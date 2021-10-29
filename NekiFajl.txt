@@ -1,5 +1,5 @@
 print("WorldHello");
 int x;
 int y;
-alskdjf lkasjdf lkajdslkf jaslkdfj
+int z;
 print(x*y);
